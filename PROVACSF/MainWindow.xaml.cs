@@ -23,14 +23,6 @@ namespace PROVACSF
         public MainWindow()
         {
             InitializeComponent();
-
-
-
-
-
-
-
-
         }
     }
 }
